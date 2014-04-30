@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## A Relatively Simple Example 
 
 ### Node.js, Restify, MongoDb and Mongoose
@@ -115,3 +116,9 @@ backbone.sublime-workspace
 Within my .npmignore file, I have one to include the config:
 
 !./config.js
+=======
+backbone-mongo
+==============
+
+A simple backbone mongodb app
+>>>>>>> d9163944da4025a385ca8d40340c82d7e0c9e267
